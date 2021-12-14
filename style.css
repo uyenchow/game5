@@ -33,7 +33,7 @@ input:checked  + input:checked  + input:checked + input:checked ~ .resultado:aft
 input:checked  + input:checked  + input:checked + input:checked ~ input + input:checked ~ .resultado:after{display:block;  }
 input:checked  + input:checked  + input:checked + input:checked ~ input:checked ~ .resultado:after{display:none;  }
 input:checked  + input:checked + input ~ input:checked ~ .resultado:after{display:block;  }
-input{border-radius:50%; margin:15px ;}
+input{border-radius:50%; margin:15px ;width:30px;height:30px}
 
 #side1{box-shadow: 0 0 0 8px #41C3AC}
 #side2{box-shadow: 0 0 0 8px #FF884D}
