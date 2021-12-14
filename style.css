@@ -35,12 +35,12 @@ input:checked  + input:checked  + input:checked + input:checked ~ input:checked 
 input:checked  + input:checked + input ~ input:checked ~ .resultado:after{display:block;  }
 input{border-radius:50%; margin:15px ;width:30px;height:30px}
 
-#side1{box-shadow: 0 0 0 8px #41C3AC}
-#side2{box-shadow: 0 0 0 8px #FF884D}
-#side3{box-shadow: 0 0 0 8px #32526E}
-#side4{box-shadow: 0 0 0 8px #65A2C5}
-#side5{box-shadow: 0 0 0 8px #FFCC5C}
-#side6{box-shadow: 0 0 0 8px #FF5557}
+#side1{box-shadow: 0 0 0 28px #41C3AC}
+#side2{box-shadow: 0 0 0 28px #FF884D}
+#side3{box-shadow: 0 0 0 28px #32526E}
+#side4{box-shadow: 0 0 0 28px #65A2C5}
+#side5{box-shadow: 0 0 0 28px #FFCC5C}
+#side6{box-shadow: 0 0 0 28px #FF5557}
 input:checked{ box-shadow: 0 0 0 8px #333 !important}
 .side:hover{z-index: 9999;}
 
